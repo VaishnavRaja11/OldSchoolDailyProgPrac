@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "C_Cpp.default.cppStandard": "c++20",
+  "C_Cpp.default.compilerPath": "cl.exe",
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+  "python.testing.pytestEnabled": true,
+  "python.testing.pytestArgs": [
+    "-q"
+  ],
+  "python.formatting.provider": "black",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/common/python/src"
+  ],
+  "terminal.integrated.env.windows": {
+    "PYTHONPATH": "${workspaceFolder}\\common\\python\\src"
+  }
+}
