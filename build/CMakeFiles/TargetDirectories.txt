@@ -1,0 +1,2 @@
+C:/Users/krvrs/Documents/Projects/OldSchoolDailyProgPrac/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/krvrs/Documents/Projects/OldSchoolDailyProgPrac/build/CMakeFiles/ZERO_CHECK.dir
